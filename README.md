@@ -7,5 +7,5 @@
  Open a terminal on the folder that the 2 files are located.
  Write: 
  python3  toDoApplication for python
- clang++ -std=c++17 toDoApplication.cpp -o toDoApplication for c++
+ clang++ -std=c++17 toDoApplication.cpp -o toDoApplication //next command//  ./toDoApplication for c++
 
